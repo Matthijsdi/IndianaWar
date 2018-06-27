@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GameMain
+comment0.text=\r\n\ The\ Starting\ point\ of\ the\ Doel\ game.\r\n\r\n\ @author\ Matthijs\ Dirksen\r\n\ @version\ 12-6-2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ The\ starting\ point\ of\ the\ Doel\ game.\r\n\ @param\ args\ Program\ arguments\r\n
+numComments=2
